@@ -1,7 +1,7 @@
 from random import randint
 
 def mot_aleatoire():
-    """ Cette fonction crée un mot aléatoire de 5 lettres parmi A, B, C ou D """
+    """ Cette fonction crée un suite aléatoire de 5 lettres parmi A, B, C ou D """
     #On peut commencer par initialiser le mot à vide
     mot=''
     liste=['A','B','C','D']
@@ -9,7 +9,7 @@ def mot_aleatoire():
         a = randint(0,3)
         mot+=liste[a]
 
-    #On renvoie le mot créé
+    #On renvoie la suite créé
     return mot
 
 #On essaye la fonction
@@ -53,7 +53,7 @@ bien=0
 while bien!=5:
     mot=''
     while not mot_valide(mot):
-        mot=input('proposez un mot de 5 lettre composé des lettres A,B,C ou D:')
+        mot=input('proposez une suite de 5 lettre composé des lettres A,B,C ou D:')
     bien,mal=etude_mot(mot,mot_cache)
     if bien==5:
         print('BRAVO! en',compteur,'coups')
