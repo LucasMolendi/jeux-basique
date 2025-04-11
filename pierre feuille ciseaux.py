@@ -1,7 +1,7 @@
 import random 
 #on importe random
 #taille de la partie
-short = 1 #1 manche
+courte = 1 #1 manche
 moyenne = 3 #3 manche
 longue = 10 # 10 manche
 def shifumi(namej1,namej2,nbr_de_manche):
