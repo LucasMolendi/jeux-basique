@@ -15,5 +15,5 @@ Le premier jeu que j'ai voulu recodé est un jeu de pierre feuille ciseaux.
   Le second jeu est celui du mastermind
 
 ## En python :
-  *Le jeu est codé en python.Le code du mastermind est extrait d'un cours de spécialité NSI au lycée ou nous avions recodé ce jeux.* 
+  *Le jeu est codé en python. Le code du mastermind est extrait d'un cours de spécialité NSI au lycée ou nous avions recodé ce jeux.* 
   L'algorythme est différent comparé au jeux de base qui utilise des couleur car l'algorythme lui utilise une suite de 5 lettres.
