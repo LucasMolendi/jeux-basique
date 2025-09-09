@@ -17,3 +17,11 @@ Le premier jeu que j'ai voulu recodé est un jeu de pierre feuille ciseaux.
 ## En python :
   *Le jeu est codé en python. Le code du mastermind est extrait d'un cours de spécialité NSI au lycée ou nous avions recodé ce jeux.* 
   L'algorythme est différent comparé au jeux de base qui utilise des couleur car l'algorythme lui utilise une suite de 5 lettres.
+
+---
+# Troisième jeu : l'intrus
+le troisième jeu est un jeu de recherche d'intrus
+
+## En Python :
+ *Le jeu est codé en python pour les même raison* 
+ **le jeu n'est pas fini et va évolué**
