@@ -1,4 +1,7 @@
-# Création d'un programme donnant une liste de mots avec un intrus
+# Création d'un programme intrus
+le programme a pour mission finale de données une liste de mots et c a nous de trouver l'intrus celui ci sera défini sois pas la couleur(si objets) sois par le type du mots(et pourquoi pas plus après).
 
 ## Etape 1 : base de donnée
-    Création d'une base de test avec 20 occurence inclus sur le doc du code pour le moment.
+Création d'une base de test avec 20 occurences(**agrandi plus tard**).
+## Etape 2 : algorithme de lecture
+Création d'un algorithme basique qui import randint et qui prend un mots aléatoire de la liste (**sur le doc de la base de données pour le moment**).
