@@ -36,3 +36,12 @@ def lecture():
         retour_mot.append(liste_mots[position])
     return retour_mot
 print(lecture())
+
+#création de la variable propositiion qui permet de récupérer la possition du supposé intru trouvé par la personne
+proposition = int(input("données la position de l'intrus (premier mots = 1)"))
+def vérification(retour_mot,proposition):
+    #test si la proposiotion est en dehors des limites
+    if proposition <= 0:
+        print("le premier mot est en position 1")
+    elif proposition > len(retour_mot):
+        return "donner la position d'un mots dans la liste pas au-dela"
