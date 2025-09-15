@@ -9,7 +9,13 @@ Le premier jeu que j'ai voulu recodé est un jeu de pierre🪨 feuille 📄 cise
 ## En python :
   *J'ai re-codé ce jeux mythique en premier lieu en python, car comme dis précédemment ce langage est plus accessible et moins limité tout en étant assez clair. Cela permet de créer un algorithme plus clair pour moi.*<br>
   L'algorythme du SHIFUMI, est composé d'un choix de taille de manche ("courte = 1" , "moyenne = 3" ou "longue = 10"), l'algorythme utilise une liste de possibilité permettant le stockage des 3 possibilité pierre feuille et ciseaux.
-  
+
+## En HTML,CSS et JavaScript :
+  *jeu codé en 3 langages différent mais complémentaires HTML,CSS et JS*<br>
+  **🚧projet en cours🚧** 
+  **(seul la partie html et css est commencé)**<br>
+  l'algorythme sera sans doutes similaire a celui du programme python avec une transformation en javascript et utilisera des bouton qui seront séléction et qui seront une interfaces visuelles du jeu<br>
+
 ---
 # Second jeu : Le mastermind
   Le second jeu est celui du mastermind
@@ -25,6 +31,6 @@ le troisième jeu est un jeu de recherche d'intrus
 
 ## En Python :
  *Le jeu est codé en python pour les même raison* 
- **Le jeu n'est pas fini et va évoluer**<br>
+ **🚧projet en cours🚧**<br>
  il ne peut pour le moment que renvoyer une liste de 4 mots tous compris dans une liste de 20 mots et ceux de façon aléatoire <br>
  **ATTENTION pour le moment il peut encore sortir un doublon**
