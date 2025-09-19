@@ -9,6 +9,7 @@ Création d'un algorithme basique qui import randint et qui prend un mots aléat
 Transformation de toute les variable issolé en une fonction qui retourne maintenant une liste de 4 mots (***cependant il peux encore y avoir des doublons a corriger***)
 ## Etape 4 : création d'une question pour qui est l'intru
 Création d'un input pour qui est l'intru a partir de la position avec 1 = le premier mot (même si en python le premier de la liste est 0).
-Création du début de la fonction de vérification qui prend en compte si le retour est en dehors des limite donc au dessus du nombre d'occurence ou négatif
+Création du début de la fonction de vérification qui prend en compte si le retour est en dehors des limite donc au dessus du nombre d'occurence ou négatif.
 ## Etape 5 : séparation entre les code et la database
-création du doc code et déplacement des fonction définies et variable dessus
+Création du doc code et déplacement des fonction définies et variable dessus.
+Création d'une liste de 200 mots uniques (*généré par chat gpt*).
