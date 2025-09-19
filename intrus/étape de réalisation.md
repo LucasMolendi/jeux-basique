@@ -10,3 +10,5 @@ Transformation de toute les variable issolé en une fonction qui retourne mainte
 ## etape 4 : création d'une question pour qui est l'intru
 Création d'un input pour qui est l'intru a partir de la position avec 1 = le premier mot (même si en python le premier de la liste est 0).
 Création du début de la fonction de vérification qui prend en compte si le retour est en dehors des limite donc au dessus du nombre d'occurence ou négatif
+## etape 5 : séparation entre les code et la database
+création du doc code et déplacement des fonction définies et variable dessus
