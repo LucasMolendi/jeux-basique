@@ -6,7 +6,7 @@ J'ai décidé de profité de mon temps libre pour recréer des petits jeux dans 
 
 Le premier jeu que j'ai voulu recodé est un jeu de pierre🪨 feuille 📄 ciseaux ✂️.
 
-## En python :
+## ✅ En python :
   *J'ai re-codé ce jeu mythique en premier lieu en python, car comme dis précédemment ce langage est plus accessible et moins limité tout en étant assez clair. Cela permet de créer un algorithme plus clair pour moi.*<br>
   L'algorythme du SHIFUMI, est composé d'un choix de taille de manche ("courte = 1" , "moyenne = 3" ou "longue = 10"), l'algorythme utilise une liste de possibilité permettant le stockage des 3 possibilité pierre feuille et ciseaux.
 
@@ -20,7 +20,7 @@ Le premier jeu que j'ai voulu recodé est un jeu de pierre🪨 feuille 📄 cise
 # Second jeu : Le mastermind
   Le second jeu est celui du mastermind
 
-## En python :
+## ✅En python :
   *Le jeu est codé en python.<br>
   Le code du mastermind est extrait d'un cours de spécialité NSI au lycée ou nous avions recodé ce jeux.* 
   L'algorythme est différent comparé au jeux de base qui utilise des couleur car l'algorythme lui utilise une suite de 5 lettres.
