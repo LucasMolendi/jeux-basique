@@ -24,3 +24,6 @@ def vérification(retour_mot,proposition):
         print("le premier mot est en position 1")
     elif proposition > len(retour_mot):
         return "donner la position d'un mots dans la liste pas au-dela"
+    else:
+        return "ca fonctionne"
+print(vérification(lecture(),proposition))
