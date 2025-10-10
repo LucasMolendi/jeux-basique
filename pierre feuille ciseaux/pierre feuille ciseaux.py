@@ -57,4 +57,4 @@ def shifumi(namej1,namej2,nbr_de_manche):
         #on affiche le nom du gagnant
         return namej2 + " a gagné"
     
-print(shifumi(namej1="Vladimir", namej2="Ordi",nbr_de_manche=longue ))
+print(shifumi(namej1="Lucas", namej2="Thomas",nbr_de_manche=courte ))
