@@ -5,6 +5,7 @@ courte = 1 #1 manche
 moyenne = 3 #3 manche
 longue = 10 # 10 manche
 def shifumi(namej1,namej2,nbr_de_manche):
+    nbr_tour = nbr_de_manche
     #on crée une liste composée par tout ce que l'on peux faire
     possibility = [ "pierre" , "feuille" , "ciseaux"]
     #on initialise le compteur de points de chaque joueur
@@ -57,4 +58,4 @@ def shifumi(namej1,namej2,nbr_de_manche):
         #on affiche le nom du gagnant
         return namej2 + " a gagné"
     
-print(shifumi(namej1="Lucas", namej2="Thomas",nbr_de_manche=longue ))
+shifumi(namej1="Lucas", namej2="Thomas",nbr_de_manche=moyenne )
