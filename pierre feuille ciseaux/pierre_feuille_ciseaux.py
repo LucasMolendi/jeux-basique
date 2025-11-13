@@ -49,13 +49,17 @@ def shifumi(namej1,namej2,nbr_de_manche):
             return "eh oh, on a dit pierre, feuille et ciseaux. tu fais quoi là!?"
     # on test la différence entre les deux compteurs pour savoir qui a gagné
     if j1_compteur>j2_compteur:
-        #on affiche le nom du gagnant
-        return namej1 + " a gagné🎉"
+        #on affiche le nom du gagnant et le résultat
+        print(j1_compteur, j2_compteur)
+        print( namej1 + " a gagné🎉")
+        print(namej2 + " a perdu")
     elif j1_compteur == j2_compteur:
         #on affiche un message si il y a égalité
         return "égalité" 
     else:
-        #on affiche le nom du gagnant
-        return namej2 + " a gagné"
+        #on affiche le nom du gagnant et le résultat
+        print(j1_compteur, j2_compteur)
+        print( namej2 + " a gagné")
+        print(namej2 + " a perdu")
     
 shifumi(namej1="Lucas", namej2="Thomas",nbr_de_manche=moyenne )
