@@ -22,3 +22,12 @@ liste_mots = [
     "créer", "détruire", "construire", "briser", "allumer", "éteindre", "ouvrir", "fermer", "donner", "prendre",
     "perdre", "trouver", "chercher", "attendre", "espérer", "croire", "savoir", "ignorer", "oser", "vaincre"
 ]
+# Dico contenant des listes pour différent thèmes
+themes_jeu = {
+    "nature": ["forêt", "arbre", "fleur", "pluie", "vent", "orage", "feu", "eau", "air", "terre"],
+    "paysage": ["océan", "montagne", "vallée", "désert", "glacier", "caverne", "falaise", "île", "jungle", "savane"],
+    "cosmos": ["soleil", "lune", "étoile", "galaxie", "univers", "comète", "volcan", "ciel", "horizon", "aurore"],
+    "animal": ["loup", "ours", "renard", "cheval", "lion", "tigre", "éléphant", "singe", "serpent", "cerf"],
+    "mythologie": ["dragon", "licorne", "griffon", "phénix", "sirène", "kraken", "chimère", "hydre", "golem", "pégase"]
+    # ... tu peux ajouter autant de thèmes que tu veux ici
+}
