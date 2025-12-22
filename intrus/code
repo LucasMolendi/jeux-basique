@@ -1,16 +1,16 @@
 #import des mots dans la liste
 from liste_mots_vnontrie import *
-#import random pour prnedre un mot au hasard
+#import random pour prendre un mot au hasard
 from random import randint as rnd
 
-##Partie fonctionnel sur la liste
+##Partie fonctionnelle sur la liste
 def lecture_liste():
-    #définition de la variable fin qui est la taille de la liste -1 pour la dernière occurence et pour la rendre insensible a la casse
+    #définition de la variable fin qui est la taille de la liste -1 pour la dernière occurrence et pour la rendre insensible a la casse
     fin= len(themes_jeu)-1
-    #création de la liste contenat les mots a la fin
+    #création de la liste contenant les mots à la fin
     retour_mot = []
     for i in range(4):
-        #création de la variable position qui prend une valeur aléatoire entre 0(première occcurence) et fin (don dernière occurence)
+        #création de la variable position qui prend une valeur aléatoire entre 0(première occurrence) et fin (dernière occurrence)
         position = rnd(0,fin)
         #ajout du mot pris au hasard dans la liste de rendu final
         retour_mot.append(themes_jeu[position])
@@ -20,10 +20,10 @@ def lecture_liste():
 def lecture_dict():
     pass
 
-#création de la variable propositiion qui permet de récupérer la possition du supposé intru trouvé par la personne
+#création de la variable proposition qui permet de récupérer la position du supposé intrus trouvé par la personne
 proposition = int(input("données la position de l'intrus (premier mots = 1)"))
 def vérification(retour_mot,proposition):
-    #test si la proposiotion est en dehors des limites
+    #test si la proposition est en dehors des limites
     if proposition <= 0:
         print("le premier mot est en position 1")
     elif proposition > len(retour_mot):
