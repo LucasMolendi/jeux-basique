@@ -1,0 +1,1 @@
+liste_vinyles = ['Grandir' , 'Hélé', 'Hélé mélatonine', 'Hélé bonne maman', 'Hélé 2', 'Coeur Maladroit', 'Coeur maladroit transparent', 'Coeur Maladroit violet', 'Coeur Maladroit deluxe'  ]

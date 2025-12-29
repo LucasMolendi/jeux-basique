@@ -4,34 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="594379f2-b1a7-447d-a5f8-cc15d0d1b6e8" name="Changes" comment="" />
+    <list default="true" id="594379f2-b1a7-447d-a5f8-cc15d0d1b6e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tirage au sort vinyles/tirage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tirage au sort vinyles/vinyles_list.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "LucasMolendi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LucasMolendi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LucasMolendi/jeux-basique.git",
-    "accountId": "dbb55b3f-8cc6-4e33-8083-289d80fafd0b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LucasMolendi/jeux-basique.git&quot;,
+    &quot;accountId&quot;: &quot;dbb55b3f-8cc6-4e33-8083-289d80fafd0b&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="37CAoLks5wStEWampTCQguK5VIM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,6 +51,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.code.executor": "Run",
+    "Python.tirage.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -76,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766396853097</updated>
       <workItem from="1766396854191" duration="3249000" />
+      <workItem from="1767011215610" duration="578000" />
     </task>
     <task id="LOCAL-00001" summary="Database + mise à jour du readme d'avancée">
       <option name="closed" value="true" />
