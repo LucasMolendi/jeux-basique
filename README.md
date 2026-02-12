@@ -17,7 +17,7 @@ Le premier jeu que j'ai voulu recodé est un jeu de pierre🪨 feuille 📄 cise
   l'algorythme sera sans doutes similaire a celui du programme python avec une transformation en javascript et utilisera des bouton qui seront séléction et qui seront une interfaces visuelles du jeu<br>
 
 ---
-# Second jeu : Le mastermind
+# Second jeux : Le mastermind
   Le second jeu est celui du mastermind
 
 ## ✅Python :
@@ -26,7 +26,7 @@ Le premier jeu que j'ai voulu recodé est un jeu de pierre🪨 feuille 📄 cise
   L'algorythme est différent comparé au jeux de base qui utilise des couleur car l'algorythme lui utilise une suite de 5 lettres.
 
 ---
-# Troisième jeu : l'intrus
+# Troisième jeux : l'intrus
 le troisième jeu est un jeu de recherche d'intrus
 
 ## Python :
@@ -34,3 +34,12 @@ le troisième jeu est un jeu de recherche d'intrus
  **🚧projet en cours🚧**<br>
  il ne peut pour le moment que renvoyer une liste de 4 mots tous compris dans une liste de 20 mots et ceux de façon aléatoire <br>
  **ATTENTION pour le moment il peut encore sortir un doublon**
+
+---
+# Quatrième jeux(App) : liste de vinyles
+  L'app a pour but d'utiliser une liste (pour l'instant) de vinyle et qui choisit le vinyle a lire
+
+## Python :
+  *L'app est en python*
+  **🚧projet en cours🚧**<br>
+  Il peut sortir d'affiler le même vinyle et ne prend pas en considération les doublons du au édition
